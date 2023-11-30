@@ -2,5 +2,5 @@
 Upgrade for a LED tea light
 
 The instructions how to hack the tea light can be found here:<br>
-how-to-tea-light-lifehack.pdf
+<b>how-to-tea-light-lifehack.pdf</b>
 
